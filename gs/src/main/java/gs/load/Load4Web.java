@@ -1,11 +1,8 @@
 package gs.load;
 
 import java.io.File;
-import java.lang.reflect.Method;
 import java.util.ResourceBundle;
 
-import code.CACodesFactory;
-import codesparser.CodesInterface;
 import codesparser.LoadInterface;
 
 /**

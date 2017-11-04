@@ -1,0 +1,6 @@
+[submodule "SupportLibaries"]
+	path = SupportLibaries
+	url = git@github.com:karlnicholas/SupportLibraries.git
+[submodule "SupportLibraries"]
+	path = SupportLibraries
+	url = git@github.com:karlnicholas/SupportLibraries.git
