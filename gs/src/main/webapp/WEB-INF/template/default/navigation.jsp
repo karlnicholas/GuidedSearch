@@ -60,9 +60,8 @@ $(function() {
     <ul class="nav navbar-nav">
       <li class="dropdown"><a href="#" class="dropdown-toggle navbar-brand" data-toggle="dropdown">Applications <span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu">
-          <li><a href="http://op-cacode.rhcloud.com">Court Opinions</a></li>
-          <li><a href="http://gs-cacode.rhcloud.com">Guided Search</a></li>
-          <li><a href="http://lag-cacode.rhcloud.com">Legislative Aggregation</a></li>
+          <li><a href="http://op-op.b9ad.pro-us-east-1.openshiftapps.com">Court Opinions</a></li>
+          <li><a href="http://gs-op.b9ad.pro-us-east-1.openshiftapps.com">Guided Search</a></li>
         </ul>
       </li>
     </ul>
